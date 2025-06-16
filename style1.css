@@ -1,0 +1,123 @@
+body {
+    font-family: Segoe UI;
+    background-color: rgba(74, 105, 45, 1);
+    color: white;
+    margin: 0;
+}
+header{
+    padding-top: 20px;
+    background-color: rgba(38, 54, 22, 1);
+}
+header  p{
+    font-size: 50px;
+    
+}
+.shapka{
+    
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.cooler{
+    color: white;
+}
+.zaraz{
+    color:rgba(134, 192, 82, 1);
+}
+.frigi{
+    color:rgba(134, 192, 82, 1);
+}
+.icon{
+    
+}
+
+.button {
+    
+}
+
+.game {
+    padding: 10px;
+    
+}
+.game img{
+    height: 100px;
+    width: 200px;
+}
+
+.link {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+    margin-top: 20px;
+}
+.link a{
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: rgba(114, 161, 71, 1);
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+    margin-bottom: 30px;
+    font-size: 20px;
+    
+}
+
+main h1{
+    padding-left: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+}
+article{
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+}
+article img{
+    width: 250px;
+    height: 125px;
+}
+article p{
+    
+    display: flex;
+    font-size: 30px;
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   background-color: rgba(38, 54, 22, 1);
+}
+
+footer a {
+    background-color: rgba(38, 54, 22, 1);
+}
+
+footer p {
+}
+.icon{
+    width: 100px;
+    display: flex;
+    
+    
+}
+.shapka2{
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgba(38, 54, 22, 1);
+}
